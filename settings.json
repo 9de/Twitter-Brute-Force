@@ -13,7 +13,7 @@
     },
     "WebhookDiscord": {
     "enable": true,
-    "DiscordWebhook": "https://ptb.discord.com/api/webhooks/956593148572880926/OMzl1JfelXDX1XEXOJSVOrtjuxCNs_hiWZwQj7SgFWzPMXesZdi3Qpa1k6NzbZgqe43S",
+    "DiscordWebhook": "Enter Your Webhook Here",
     "Footer": {
         "text": "Twitter Checker By Turki",
         "iconurl": "https://l.top4top.io/p_2273oe2s82.jpg"
