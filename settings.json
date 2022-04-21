@@ -1,0 +1,24 @@
+{
+    "threads": 400,
+    "bad": {
+    "print": false,
+    "Save": false
+    },
+    "proxy": {
+    "type": "socks4"
+    },
+    "2fa": {
+    "SendtoDiscordWebhook": false,
+    "Print": true
+    },
+    "WebhookDiscord": {
+    "enable": true,
+    "DiscordWebhook": "https://ptb.discord.com/api/webhooks/956593148572880926/OMzl1JfelXDX1XEXOJSVOrtjuxCNs_hiWZwQj7SgFWzPMXesZdi3Qpa1k6NzbZgqe43S",
+    "Footer": {
+        "text": "Twitter Checker By Turki",
+        "iconurl": "https://l.top4top.io/p_2273oe2s82.jpg"
+    },
+    "2facolor": "FFFF00",
+    "hitscolor": "00FF00"
+    }
+}
