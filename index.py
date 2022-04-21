@@ -24,7 +24,7 @@ jsonfile = """{
     },
     "WebhookDiscord": {
     "enable": true,
-    "DiscordWebhook": "https://ptb.discord.com/api/webhooks/954902065639981068/NDn_Z14Z56p4ZNfxPIfch8dJErrw116H-EWLRa4b9Bkj2pfSB0v5_J_LSlpODoB9NoXH",
+    "DiscordWebhook": "Enter Your Webhook Here",
     "Footer": {
         "text": "Twitter Checker By Turki",
         "iconurl": "https://l.top4top.io/p_2273oe2s82.jpg"
